@@ -1,0 +1,190 @@
+index,Unnamed: 0,word,theme,rank,count
+0,1104,horror,crime and violence,41.0,903
+1,291,breast,female stereotypes,31.0,904
+2,1731,prince,No theme,65.0,909
+3,354,care,female stereotypes,30.0,911
+4,2198,surgery,No theme,64.0,921
+5,202,beautiful,female stereotypes,28.0,926
+6,973,girlfriend,female stereotypes,29.0,926
+7,1406,meghan,people and places,20.0,928
+8,2234,teacher,empowerment,26.0,930
+9,683,donald,people and places,19.0,934
+10,134,artist,empowerment,25.0,935
+11,1229,judge,crime and violence,40.0,935
+12,2171,style,No theme,63.0,941
+13,571,dance,No theme,62.0,947
+14,2106,sport,No theme,61.0,951
+15,2180,suffer,crime and violence,39.0,952
+16,1756,protest,empowerment,24.0,959
+17,1287,learn,No theme,60.0,961
+18,1211,jenner,people and places,18.0,962
+19,275,boss,empowerment,23.0,962
+20,840,fear,female stereotypes,27.0,970
+21,590,debut,No theme,59.0,980
+22,2127,stand,No theme,58.0,982
+23,1100,hope,No theme,57.0,988
+24,341,campaign,empowerment,22.0,989
+25,613,deny,No theme,56.0,991
+26,1170,instagram,people and places,17.0,997
+27,1466,money,No theme,55.0,998
+28,1168,inspire,empowerment,21.0,999
+29,946,gang,crime and violence,38.0,1005
+30,203,beauty,female stereotypes,26.0,1014
+31,697,dream,empowerment,20.0,1035
+32,1968,sentence,crime and violence,37.0,1043
+33,1651,pic,No theme,54.0,1046
+34,2076,song,No theme,53.0,1049
+35,2437,west,people and places,16.0,1057
+36,2239,teenage,No theme,52.0,1057
+37,25,act,No theme,51.0,1073
+38,1566,online,No theme,50.0,1082
+39,2400,violence,crime and violence,36.0,1094
+40,1176,interview,No theme,49.0,1094
+41,1427,michelle,people and places,15.0,1095
+42,323,business,empowerment,19.0,1096
+43,2414,war,crime and violence,35.0,1097
+44,320,burn,crime and violence,34.0,1107
+45,75,allege,crime and violence,33.0,1109
+46,1844,rescue,No theme,48.0,1110
+47,1284,leader,empowerment,18.0,1116
+48,1830,release,No theme,47.0,1116
+49,647,director,empowerment,17.0,1122
+50,1811,record,No theme,46.0,1142
+51,1212,jennifer,people and places,14.0,1144
+52,560,cut,No theme,45.0,1146
+53,1237,kate,people and places,13.0,1147
+54,806,explain,No theme,44.0,1148
+55,355,career,empowerment,16.0,1149
+56,1981,sexually,female stereotypes,25.0,1157
+57,1046,harassment,crime and violence,32.0,1158
+58,1931,saudi,"race, ethnicity and identity",6.0,1162
+59,1459,model,No theme,43.0,1165
+60,2338,twitter,people and places,12.0,1180
+61,2192,support,female stereotypes,24.0,1186
+62,2033,single,female stereotypes,23.0,1201
+63,186,ban,No theme,42.0,1204
+64,816,facebook,people and places,11.0,1209
+65,36,admit,No theme,41.0,1215
+66,1279,launch,empowerment,15.0,1219
+67,1094,hollywood,people and places,10.0,1222
+68,1552,obama,people and places,9.0,1224
+69,1253,killer,crime and violence,31.0,1225
+70,1720,president,No theme,40.0,1239
+71,1009,great,empowerment,14.0,1243
+72,197,battle,crime and violence,30.0,1247
+73,1877,rise,empowerment,13.0,1272
+74,1735,prison,crime and violence,29.0,1272
+75,2250,texas,people and places,8.0,1280
+76,2494,york,people and places,6.0,1283
+77,1323,london,people and places,7.0,1283
+78,2412,walk,No theme,39.0,1286
+79,1378,marriage,female stereotypes,22.0,1291
+80,2136,steal,crime and violence,28.0,1291
+81,2487,write,No theme,38.0,1296
+82,832,fashion,No theme,37.0,1312
+83,706,drug,crime and violence,27.0,1316
+84,1494,music,No theme,36.0,1332
+85,30,actress,female stereotypes,21.0,1333
+86,2231,taylor,people and places,5.0,1340
+87,2308,transgender,"race, ethnicity and identity",5.0,1340
+88,564,dad,No theme,35.0,1364
+89,2082,south,people and places,4.0,1388
+90,176,bad,No theme,34.0,1399
+91,1063,heart,No theme,33.0,1411
+92,1956,secret,No theme,32.0,1413
+93,1090,history,No theme,31.0,1435
+94,2117,stab,crime and violence,26.0,1437
+95,1703,power,empowerment,12.0,1442
+96,701,driver,No theme,30.0,1459
+97,2185,suicide,crime and violence,25.0,1462
+98,1255,kim,people and places,3.0,1491
+99,1611,party,No theme,29.0,1497
+100,54,age,No theme,28.0,1501
+101,1604,parent,empowerment,11.0,1503
+102,1560,officer,empowerment,10.0,1506
+103,372,celebrate,No theme,27.0,1529
+104,2179,sue,No theme,26.0,1540
+105,1236,kardashian,people and places,2.0,1557
+106,305,brother,No theme,25.0,1572
+107,1358,male,No theme,24.0,1590
+108,845,feel,female stereotypes,20.0,1591
+109,166,award,empowerment,9.0,1601
+110,1035,hair,female stereotypes,19.0,1618
+111,957,gender,"race, ethnicity and identity",4.0,1655
+112,1055,head,No theme,23.0,1689
+113,675,doctor,empowerment,8.0,1697
+114,1489,mum,female stereotypes,18.0,1700
+115,2391,victim,female stereotypes,17.0,1717
+116,1484,movie,No theme,22.0,1741
+117,2166,student,No theme,21.0,1750
+118,1215,job,empowerment,7.0,1754
+119,200,beat,crime and violence,24.0,1761
+120,1380,marry,female stereotypes,16.0,1766
+121,77,allegedly,crime and violence,23.0,1780
+122,1772,queen,empowerment,6.0,1792
+123,2443,white,"race, ethnicity and identity",3.0,1794
+124,1246,kid,female stereotypes,15.0,1807
+125,2429,wedding,female stereotypes,14.0,1855
+126,2167,study,No theme,20.0,1911
+127,1280,law,crime and violence,22.0,1912
+128,1498,muslim,"race, ethnicity and identity",2.0,1949
+129,899,force,crime and violence,21.0,1950
+130,698,dress,female stereotypes,13.0,1985
+131,87,american,people and places,1.0,2023
+132,579,date,No theme,19.0,2024
+133,8,abuse,crime and violence,20.0,2074
+134,873,fire,crime and violence,19.0,2091
+135,823,fall,crime and violence,18.0,2141
+136,344,cancer,No theme,18.0,2180
+137,240,birth,female stereotypes,12.0,2194
+138,1979,sexual,female stereotypes,11.0,2198
+139,394,change,No theme,17.0,2221
+140,1283,lead,empowerment,5.0,2255
+141,2471,wonder,No theme,16.0,2269
+142,526,court,crime and violence,17.0,2277
+143,141,assault,crime and violence,16.0,2299
+144,836,father,No theme,15.0,2310
+145,2426,wear,No theme,14.0,2311
+146,1933,save,No theme,13.0,2312
+147,512,cop,crime and violence,15.0,2382
+148,282,boyfriend,No theme,12.0,2404
+149,1091,hit,crime and violence,14.0,2412
+150,2238,teen,No theme,11.0,2507
+151,1316,little,No theme,10.0,2539
+152,281,boy,No theme,9.0,2556
+153,2448,wife,female stereotypes,10.0,2592
+154,2004,shoot,crime and violence,12.0,2622
+155,1199,jail,crime and violence,13.0,2622
+156,861,fight,crime and violence,11.0,2819
+157,263,body,female stereotypes,9.0,2819
+158,1327,lose,No theme,8.0,3010
+159,2456,win,empowerment,4.0,3064
+160,431,claim,No theme,7.0,3330
+161,1715,pregnant,female stereotypes,8.0,3370
+162,242,black,"race, ethnicity and identity",1.0,3384
+163,583,dead,crime and violence,10.0,3473
+164,2475,work,empowerment,3.0,3526
+165,2495,young,No theme,6.0,3527
+166,1462,mom,female stereotypes,7.0,3614
+167,146,attack,crime and violence,9.0,3690
+168,18,accuse,crime and violence,8.0,3762
+169,1119,husband,No theme,5.0,3989
+170,828,family,female stereotypes,6.0,4057
+171,1074,help,No theme,4.0,4139
+172,1331,love,female stereotypes,5.0,4223
+173,129,arrest,crime and violence,7.0,4257
+174,1977,sex,female stereotypes,4.0,4464
+175,1492,murder,crime and violence,6.0,4549
+176,410,child,female stereotypes,3.0,4847
+177,2269,time,No theme,3.0,5022
+178,2129,star,empowerment,2.0,5201
+179,580,daughter,female stereotypes,2.0,5270
+180,1866,reveal,No theme,2.0,5618
+181,1795,rape,crime and violence,5.0,5653
+182,1680,police,crime and violence,4.0,5903
+183,588,death,crime and violence,3.0,5919
+184,171,baby,female stereotypes,1.0,6595
+185,634,die,crime and violence,2.0,6755
+186,1252,kill,crime and violence,1.0,7776
+187,876,first,empowerment,1.0,10654
+188,1361,man,No theme,1.0,15007

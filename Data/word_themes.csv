@@ -1,0 +1,1482 @@
+index,Unnamed: 0,word,theme
+0,26,abandon,No theme
+1,35,abduct,crime and violence
+2,62,abortion,empowerment
+3,79,abuse,crime and violence
+4,99,accident,crime and violence
+5,111,account,No theme
+6,117,accuse,crime and violence
+7,126,acid,crime and violence
+8,137,act,No theme
+9,139,action,No theme
+10,143,activist,empowerment
+11,145,actor,empowerment
+12,146,actress,female stereotypes
+13,156,add,No theme
+14,195,admit,No theme
+15,200,adopt,No theme
+16,203,adorable,female stereotypes
+17,225,advice,No theme
+18,240,affair,female stereotypes
+19,241,affect,No theme
+20,252,afghan,people and places
+21,259,africa,people and places
+22,260,african,people and places
+23,275,age,No theme
+24,304,ahead,No theme
+25,310,ahmedabad,people and places
+26,327,aim,No theme
+27,340,airport,No theme
+28,403,alia,people and places
+29,417,alive,No theme
+30,421,allegation,crime and violence
+31,422,allege,crime and violence
+32,424,allegedly,crime and violence
+33,436,allow,No theme
+34,476,amazon,people and places
+35,497,america,people and places
+36,498,american,people and places
+37,558,andhra,people and places
+38,582,angry,No theme
+39,613,anniversary,No theme
+40,631,answer,No theme
+41,641,anti,No theme
+42,682,apologise,No theme
+43,703,appoint,empowerment
+44,724,arabia,people and places
+45,774,army,No theme
+46,785,arrest,crime and violence
+47,793,art,No theme
+48,802,artist,empowerment
+49,843,asian,"race, ethnicity and identity"
+50,862,assam,people and places
+51,868,assault,crime and violence
+52,869,assembly,No theme
+53,907,athlete,empowerment
+54,919,attack,crime and violence
+55,922,attempt,No theme
+56,923,attend,No theme
+57,963,australia,people and places
+58,964,australian,people and places
+59,969,author,empowerment
+60,974,auto,No theme
+61,1005,avoid,No theme
+62,1013,award,empowerment
+63,1062,baby,female stereotypes
+64,1070,bachchan,people and places
+65,1095,bad,No theme
+66,1113,bag,No theme
+67,1125,bail,crime and violence
+68,1176,ban,No theme
+69,1193,banerjee,people and places
+70,1297,battle,crime and violence
+71,1319,bear,No theme
+72,1325,beat,crime and violence
+73,1330,beautiful,female stereotypes
+74,1332,beauty,female stereotypes
+75,1355,begin,No theme
+76,1385,believe,No theme
+77,1409,benefit,No theme
+78,1410,bengal,people and places
+79,1457,beyonce,people and places
+80,1506,bhatt,people and places
+81,1542,bias,No theme
+82,1549,bid,No theme
+83,1563,bihar,people and places
+84,1576,bill,No theme
+85,1617,birth,female stereotypes
+86,1637,black,"race, ethnicity and identity"
+87,1650,blame,No theme
+88,1693,blood,crime and violence
+89,1701,blue,No theme
+90,1711,board,No theme
+91,1725,body,female stereotypes
+92,1784,border,No theme
+93,1800,boss,empowerment
+94,1832,box,No theme
+95,1835,boy,No theme
+96,1838,boyfriend,No theme
+97,1854,brain,No theme
+98,1868,brave,No theme
+99,1887,breast,female stereotypes
+100,1914,bride,female stereotypes
+101,1963,brother,No theme
+102,2003,build,No theme
+103,2022,bully,crime and violence
+104,2056,burn,crime and violence
+105,2066,business,empowerment
+106,2127,california,people and places
+107,2142,camera,No theme
+108,2149,campaign,empowerment
+109,2161,cancer,No theme
+110,2166,candidate,empowerment
+111,2198,captain,empowerment
+112,2218,care,female stereotypes
+113,2219,career,empowerment
+114,2277,caste,"race, ethnicity and identity"
+115,2324,ceiling,No theme
+116,2326,celebrate,No theme
+117,2330,celebrity,empowerment
+118,2357,ceo,empowerment
+119,2393,challenge,No theme
+120,2402,champion,empowerment
+121,2403,championship,empowerment
+122,2425,change,No theme
+123,2437,character,No theme
+124,2479,cheat,female stereotypes
+125,2508,chennai,people and places
+126,2542,chief,empowerment
+127,2544,child,female stereotypes
+128,2564,china,people and places
+129,2567,chinese,"race, ethnicity and identity"
+130,2586,choice,No theme
+131,2593,choose,No theme
+132,2635,church,"race, ethnicity and identity"
+133,2648,cinema,No theme
+134,2676,claim,No theme
+135,2760,coach,empowerment
+136,2815,college,No theme
+137,2828,color,"race, ethnicity and identity"
+138,2844,combat,crime and violence
+139,2865,comment,No theme
+140,2870,commission,No theme
+141,2872,commit,female stereotypes
+142,2886,community,No theme
+143,2891,company,No theme
+144,2909,complaint,No theme
+145,2986,congress,empowerment
+146,3072,control,No theme
+147,3075,controversy,No theme
+148,3082,convert,No theme
+149,3084,convict,crime and violence
+150,3092,cook,female stereotypes
+151,3104,cop,crime and violence
+152,3125,coronavirus,No theme
+153,3175,couple,No theme
+154,3182,court,crime and violence
+155,3222,crash,crime and violence
+156,3250,crew,No theme
+157,3253,cricket,No theme
+158,3254,cricketer,empowerment
+159,3255,crime,crime and violence
+160,3261,crisis,No theme
+161,3306,crush,No theme
+162,3308,cry,female stereotypes
+163,3334,culture,No theme
+164,3340,cup,No theme
+165,3365,custody,crime and violence
+166,3370,cut,No theme
+167,3403,dad,No theme
+168,3427,dalit,"race, ethnicity and identity"
+169,3442,dance,No theme
+170,3469,dark,No theme
+171,3485,date,No theme
+172,3488,daughter,female stereotypes
+173,3516,dead,crime and violence
+174,3528,death,crime and violence
+175,3531,debate,No theme
+176,3536,debut,No theme
+177,3539,decade,No theme
+178,3550,decision,No theme
+179,3577,deepika,people and places
+180,3597,defend,crime and violence
+181,3627,delhi,people and places
+182,3635,deliver,No theme
+183,3642,demand,No theme
+184,3678,deny,No theme
+185,3700,depression,No theme
+186,3727,design,No theme
+187,3729,designer,empowerment
+188,3746,detain,No theme
+189,3772,devi,people and places
+190,3857,die,crime and violence
+191,3862,diet,female stereotypes
+192,3866,different,No theme
+193,3920,director,empowerment
+194,3952,discover,No theme
+195,3957,discrimination,"race, ethnicity and identity"
+196,3961,disease,No theme
+197,4028,district,No theme
+198,4048,divorce,female stereotypes
+199,4066,doctor,empowerment
+200,4090,domestic,female stereotypes
+201,4094,dominate,empowerment
+202,4103,donald,people and places
+203,4104,donate,No theme
+204,4115,door,No theme
+205,4136,double,No theme
+206,4151,dowry,No theme
+207,4158,drag,No theme
+208,4173,draw,No theme
+209,4179,dream,empowerment
+210,4184,dress,female stereotypes
+211,4191,drink,No theme
+212,4194,driver,No theme
+213,4201,drown,crime and violence
+214,4203,drug,crime and violence
+215,4206,drunk,No theme
+216,4250,dump,No theme
+217,4301,early,No theme
+218,4303,earn,No theme
+219,4351,education,empowerment
+220,4383,elderly,No theme
+221,4385,elect,No theme
+222,4386,election,No theme
+223,4467,emotional,female stereotypes
+224,4477,employee,empowerment
+225,4480,empower,empowerment
+226,4482,empowerment,No theme
+227,4514,engineer,No theme
+228,4516,england,people and places
+229,4557,entrepreneur,empowerment
+230,4560,entry,No theme
+231,4577,equal,empowerment
+232,4579,equality,empowerment
+233,4605,escape,crime and violence
+234,4671,event,No theme
+235,4692,exam,No theme
+236,4721,executive,empowerment
+237,4752,experience,No theme
+238,4755,expert,empowerment
+239,4756,explain,No theme
+240,4772,express,No theme
+241,4811,facebook,people and places
+242,4819,fact,No theme
+243,4829,fail,No theme
+244,4839,fake,No theme
+245,4844,fall,crime and violence
+246,4856,family,female stereotypes
+247,4857,famous,empowerment
+248,4866,far,No theme
+249,4875,farmer,empowerment
+250,4888,fashion,No theme
+251,4892,fast,No theme
+252,4894,fat,female stereotypes
+253,4901,father,No theme
+254,4918,fear,female stereotypes
+255,4924,feature,No theme
+256,4934,feed,No theme
+257,4937,feel,female stereotypes
+258,4957,feminism,empowerment
+259,4958,feminist,female stereotypes
+260,5011,field,No theme
+261,5021,fight,crime and violence
+262,5023,fighter,empowerment
+263,5030,file,No theme
+264,5048,financial,No theme
+265,5063,fir,No theme
+266,5064,fire,crime and violence
+267,5072,firm,No theme
+268,5076,first,empowerment
+269,5086,fit,female stereotypes
+270,5088,fitness,female stereotypes
+271,5139,floor,No theme
+272,5143,florida,people and places
+273,5163,focus,No theme
+274,5178,food,No theme
+275,5184,foot,No theme
+276,5186,football,No theme
+277,5196,force,crime and violence
+278,5217,forget,No theme
+279,5222,form,No theme
+280,5243,founder,empowerment
+281,5278,freedom,empowerment
+282,5333,fund,No theme
+283,5340,funeral,crime and violence
+284,5354,future,No theme
+285,5365,gadot,people and places
+286,5379,gal,female stereotypes
+287,5396,gandhi,people and places
+288,5403,gang,crime and violence
+289,5407,gangrape,crime and violence
+290,5413,gap,No theme
+291,5485,gender,"race, ethnicity and identity"
+292,5502,genital,crime and violence
+293,5532,gets,No theme
+294,5588,girlfriend,female stereotypes
+295,5604,glass,No theme
+296,5613,global,No theme
+297,5655,gold,No theme
+298,5657,golden,No theme
+299,5680,google,people and places
+300,5723,government,people and places
+301,5767,grant,No theme
+302,5782,great,empowerment
+303,5831,ground,No theme
+304,5836,grow,No theme
+305,5845,guard,No theme
+306,5857,guide,No theme
+307,5861,guilty,crime and violence
+308,5866,gujarat,people and places
+309,5881,gun,crime and violence
+310,5894,gupta,people and places
+311,5916,guy,No theme
+312,5943,hair,female stereotypes
+313,6000,hang,crime and violence
+314,6019,harass,crime and violence
+315,6022,harassment,crime and violence
+316,6056,harris,people and places
+317,6070,haryana,people and places
+318,6090,hate,crime and violence
+319,6124,head,No theme
+320,6140,health,No theme
+321,6142,healthy,No theme
+322,6146,heart,No theme
+323,6187,help,No theme
+324,6217,hero,empowerment
+325,6241,hijab,"race, ethnicity and identity"
+326,6270,hindu,"race, ethnicity and identity"
+327,6285,hire,No theme
+328,6294,history,No theme
+329,6295,hit,crime and violence
+330,6305,hockey,No theme
+331,6317,hollywood,people and places
+332,6325,home,No theme
+333,6359,honour,No theme
+334,6370,hope,No theme
+335,6386,horror,crime and violence
+336,6395,hospital,crime and violence
+337,6407,hot,No theme
+338,6409,hotel,No theme
+339,6452,human,No theme
+340,6483,hurt,crime and violence
+341,6487,husband,No theme
+342,6497,hyderabad,people and places
+343,6532,iconic,empowerment
+344,6585,image,No theme
+345,6634,important,No theme
+346,6676,include,No theme
+347,6688,increase,No theme
+348,6792,injure,crime and violence
+349,6794,injury,crime and violence
+350,6834,inspire,empowerment
+351,6835,inspiring,empowerment
+352,6837,instagram,people and places
+353,6845,instead,No theme
+354,6896,internet,No theme
+355,6909,interview,No theme
+356,6978,iron,No theme
+357,7002,isis,people and places
+358,7024,issue,No theme
+359,7071,jail,crime and violence
+360,7110,janhvi,people and places
+361,7116,japan,people and places
+362,7140,jayalalithaa,people and places
+363,7166,jenner,people and places
+364,7167,jennifer,people and places
+365,7197,jharkhand,people and places
+366,7225,job,empowerment
+367,7273,journalist,empowerment
+368,7274,journey,No theme
+369,7284,judge,crime and violence
+370,7317,justice,crime and violence
+371,7342,kaif,people and places
+372,7374,kamala,people and places
+373,7393,kangana,people and places
+374,7419,karan,people and places
+375,7424,kardashian,people and places
+376,7426,kareena,people and places
+377,7440,karnataka,people and places
+378,7457,kashmir,people and places
+379,7475,katrina,people and places
+380,7479,kaur,people and places
+381,7532,key,No theme
+382,7541,khanna,people and places
+383,7576,kid,female stereotypes
+384,7578,kidnap,crime and violence
+385,7586,kill,crime and violence
+386,7587,killer,crime and violence
+387,7619,kiss,female stereotypes
+388,7665,kohli,people and places
+389,7676,kolkata,people and places
+390,7784,lack,No theme
+391,7810,lakh,No theme
+392,7872,later,No theme
+393,7888,launch,empowerment
+394,7900,law,crime and violence
+395,7906,lawyer,empowerment
+396,7913,lead,empowerment
+397,7914,leader,empowerment
+398,7915,leadership,empowerment
+399,7917,league,No theme
+400,7927,learn,No theme
+401,7950,legal,No theme
+402,7996,lesson,No theme
+403,8003,level,No theme
+404,8037,lie,female stereotypes
+405,8047,lift,No theme
+406,8050,light,No theme
+407,8111,little,No theme
+408,8137,lock,No theme
+409,8164,london,people and places
+410,8183,lose,No theme
+411,8185,loss,No theme
+412,8187,lot,No theme
+413,8201,love,female stereotypes
+414,8206,lover,female stereotypes
+415,8208,low,No theme
+416,8225,lucknow,people and places
+417,8336,maharashtra,people and places
+418,8368,major,No theme
+419,8374,makeup,female stereotypes
+420,8396,male,No theme
+421,8425,mamata,people and places
+422,8433,man,No theme
+423,8437,manager,empowerment
+424,8542,march,empowerment
+425,8570,mark,people and places
+426,8573,market,No theme
+427,8581,marriage,female stereotypes
+428,8582,married,female stereotypes
+429,8584,marry,female stereotypes
+430,8610,mask,No theme
+431,8669,matter,No theme
+432,8723,mean,No theme
+433,8736,medal,empowerment
+434,8745,medical,No theme
+435,8794,melania,people and places
+436,8801,member,No theme
+437,8810,memory,No theme
+438,8827,mental,No theme
+439,8865,metoo,empowerment
+440,8867,metro,No theme
+441,8896,middle,No theme
+442,8928,military,No theme
+443,8948,mind,No theme
+444,8962,minister,empowerment
+445,8968,minor,No theme
+446,8972,minute,No theme
+447,8982,mirza,No theme
+448,9020,mission,No theme
+449,9036,mithali,people and places
+450,9047,mla,No theme
+451,9065,model,No theme
+452,9068,modern,No theme
+453,9100,molest,crime and violence
+454,9106,mom,female stereotypes
+455,9118,money,No theme
+456,9223,movement,empowerment
+457,9224,movie,No theme
+458,9283,mum,female stereotypes
+459,9284,mumbai,people and places
+460,9303,murder,crime and violence
+461,9325,music,No theme
+462,9329,muslim,"race, ethnicity and identity"
+463,9349,mystery,No theme
+464,9371,nadu,No theme
+465,9448,nasa,people and places
+466,9464,nation,No theme
+467,9490,navy,No theme
+468,9555,neighbour,No theme
+469,9581,netflix,people and places
+470,9596,newborn,female stereotypes
+471,9631,nick,people and places
+472,9674,nirbhaya,crime and violence
+473,9699,noida,people and places
+474,9729,north,No theme
+475,9742,note,No theme
+476,9744,notice,No theme
+477,9755,novel,No theme
+478,9785,nurse,female stereotypes
+479,9810,obama,people and places
+480,9869,officer,empowerment
+481,9889,olympic,empowerment
+482,9902,online,No theme
+483,9925,opinion,No theme
+484,9959,order,No theme
+485,9987,oscar,empowerment
+486,10024,outrage,crime and violence
+487,10072,owner,empowerment
+488,10102,padukone,people and places
+489,10116,pain,No theme
+490,10126,pak,"race, ethnicity and identity"
+491,10127,pakistan,people and places
+492,10128,pakistani,"race, ethnicity and identity"
+493,10232,parent,empowerment
+494,10274,partner,No theme
+495,10277,party,No theme
+496,10287,passenger,No theme
+497,10296,past,No theme
+498,10323,patient,female stereotypes
+499,10408,pen,No theme
+500,10447,perfect,empowerment
+501,10450,perform,No theme
+502,10451,performance,No theme
+503,10458,period,female stereotypes
+504,10480,person,No theme
+505,10482,personal,No theme
+506,10573,pic,No theme
+507,10602,pilot,empowerment
+508,10611,pink,female stereotypes
+509,10656,plane,No theme
+510,10674,player,No theme
+511,10683,plea,No theme
+512,10724,point,No theme
+513,10739,police,crime and violence
+514,10743,policy,No theme
+515,10747,politic,No theme
+516,10748,political,No theme
+517,10750,politician,empowerment
+518,10755,poll,No theme
+519,10786,poor,No theme
+520,10820,pose,No theme
+521,10824,positive,No theme
+522,10858,power,empowerment
+523,10860,powerful,empowerment
+524,10880,pradesh,people and places
+525,10887,praise,No theme
+526,10925,pregnancy,female stereotypes
+527,10926,pregnant,female stereotypes
+528,10957,president,No theme
+529,10967,pretty,female stereotypes
+530,10981,priest,No theme
+531,10985,prime,No theme
+532,10986,prince,No theme
+533,10987,princess,female stereotypes
+534,10998,prison,crime and violence
+535,11005,private,No theme
+536,11020,probe,No theme
+537,11056,project,No theme
+538,11062,promise,No theme
+539,11065,promote,empowerment
+540,11080,property,No theme
+541,11100,protect,No theme
+542,11106,protest,empowerment
+543,11111,proud,No theme
+544,11113,prove,No theme
+545,11146,publish,No theme
+546,11173,pune,No theme
+547,11177,punjab,people and places
+548,11243,quarantine,No theme
+549,11249,queen,empowerment
+550,11254,question,No theme
+551,11267,quit,No theme
+552,11288,race,"race, ethnicity and identity"
+553,11298,racist,crime and violence
+554,11332,rahul,people and places
+555,11340,railway,No theme
+556,11348,raise,No theme
+557,11350,raj,people and places
+558,11356,rajasthan,people and places
+559,11377,rajput,"race, ethnicity and identity"
+560,11389,rally,No theme
+561,11391,ram,No theme
+562,11420,ranaut,people and places
+563,11422,ranbir,people and places
+564,11438,rank,No theme
+565,11448,rape,crime and violence
+566,11457,rare,No theme
+567,11474,rate,No theme
+568,11514,reach,No theme
+569,11515,react,No theme
+570,11516,reaction,No theme
+571,11521,ready,No theme
+572,11526,reality,No theme
+573,11534,reason,No theme
+574,11547,recall,No theme
+575,11575,record,No theme
+576,11579,recover,No theme
+577,11672,reject,No theme
+578,11684,relationship,female stereotypes
+579,11692,release,No theme
+580,11710,remark,No theme
+581,11761,reply,No theme
+582,11780,rescue,No theme
+583,11782,research,No theme
+584,11811,respect,No theme
+585,11816,response,No theme
+586,11855,reunite,No theme
+587,11861,reveal,No theme
+588,11907,rich,No theme
+589,11937,ring,No theme
+590,11951,rise,empowerment
+591,11955,risk,crime and violence
+592,12051,room,No theme
+593,12102,royal,No theme
+594,12131,rule,No theme
+595,12138,rumour,No theme
+596,12150,rural,No theme
+597,12155,russian,people and places
+598,12174,sabarimala,people and places
+599,12209,safe,No theme
+600,12213,safety,No theme
+601,12276,salman,No theme
+602,12365,sara,people and places
+603,12434,saudi,"race, ethnicity and identity"
+604,12438,save,No theme
+605,12485,scheme,No theme
+606,12492,school,No theme
+607,12503,science,No theme
+608,12505,scientist,empowerment
+609,12518,score,No theme
+610,12534,screen,No theme
+611,12561,search,No theme
+612,12563,seat,No theme
+613,12572,secret,No theme
+614,12581,security,crime and violence
+615,12609,selfie,No theme
+616,12628,senior,No theme
+617,12636,sentence,crime and violence
+618,12664,serve,No theme
+619,12666,service,No theme
+620,12689,sex,female stereotypes
+621,12690,sexism,female stereotypes
+622,12691,sexist,female stereotypes
+623,12694,sexual,female stereotypes
+624,12699,sexually,female stereotypes
+625,12700,sexy,female stereotypes
+626,12718,shah,people and places
+627,12751,shame,female stereotypes
+628,12792,sharma,people and places
+629,12857,shetty,people and places
+630,12896,shock,No theme
+631,12899,shocking,No theme
+632,12905,shoot,crime and violence
+633,12909,shop,female stereotypes
+634,12919,short,No theme
+635,12968,shut,No theme
+636,13017,sikh,"race, ethnicity and identity"
+637,13021,silence,No theme
+638,13055,sing,No theme
+639,13059,singer,empowerment
+640,13060,singh,people and places
+641,13067,single,female stereotypes
+642,13073,sinha,people and places
+643,13086,sit,No theme
+644,13098,size,No theme
+645,13120,skin,female stereotypes
+646,13141,slam,crime and violence
+647,13143,slap,crime and violence
+648,13185,small,No theme
+649,13195,smile,No theme
+650,13260,society,No theme
+651,13276,soldier,No theme
+652,13301,song,No theme
+653,13310,soon,No theme
+654,13338,south,people and places
+655,13350,space,No theme
+656,13376,special,No theme
+657,13388,speech,No theme
+658,13431,sport,No theme
+659,13471,sridevi,people and places
+660,13494,stab,crime and violence
+661,13502,staff,No theme
+662,13505,stage,No theme
+663,13514,stalk,crime and violence
+664,13526,stand,No theme
+665,13535,star,empowerment
+666,13546,startup,No theme
+667,13550,statement,No theme
+668,13554,statue,No theme
+669,13562,steal,crime and violence
+670,13583,stereotype,No theme
+671,13592,stick,No theme
+672,13616,stone,No theme
+673,13622,store,No theme
+674,13673,strike,No theme
+675,13679,strip,No theme
+676,13686,strong,empowerment
+677,13692,struggle,No theme
+678,13698,student,No theme
+679,13700,study,No theme
+680,13714,style,No theme
+681,13742,success,empowerment
+682,13743,successful,empowerment
+683,13763,sue,No theme
+684,13765,suffer,crime and violence
+685,13786,suicide,crime and violence
+686,13837,sunny,No theme
+687,13868,support,female stereotypes
+688,13874,supreme,No theme
+689,13890,surgery,No theme
+690,13910,survive,empowerment
+691,13911,survivor,empowerment
+692,13916,sushant,people and places
+693,13922,suspect,crime and violence
+694,13923,suspend,No theme
+695,13957,swaraj,people and places
+696,13990,swift,No theme
+697,14068,tale,No theme
+698,14086,tamil,"race, ethnicity and identity"
+699,14137,target,No theme
+700,14157,tattoo,No theme
+701,14171,taylor,people and places
+702,14180,teach,No theme
+703,14181,teacher,empowerment
+704,14184,tear,crime and violence
+705,14199,teen,No theme
+706,14200,teenage,No theme
+707,14202,teenager,No theme
+708,14214,telangana,people and places
+709,14222,temple,"race, ethnicity and identity"
+710,14234,tennis,No theme
+711,14244,teresa,people and places
+712,14247,term,No theme
+713,14278,texas,people and places
+714,14350,thrash,No theme
+715,14352,threat,crime and violence
+716,14353,threaten,crime and violence
+717,14388,tie,No theme
+718,14393,tiger,No theme
+719,14409,time,No theme
+720,14439,title,empowerment
+721,14450,toddler,female stereotypes
+722,14457,toilet,No theme
+723,14479,tongue,female stereotypes
+724,14492,top,No theme
+725,14503,torture,crime and violence
+726,14510,touch,No theme
+727,14528,track,No theme
+728,14542,traffic,No theme
+729,14554,training,No theme
+730,14562,trans,"race, ethnicity and identity"
+731,14570,transgender,"race, ethnicity and identity"
+732,14588,trap,crime and violence
+733,14607,treat,No theme
+734,14608,treatment,No theme
+735,14611,tree,No theme
+736,14616,trend,No theme
+737,14623,trial,crime and violence
+738,14625,tribal,"race, ethnicity and identity"
+739,14641,trip,No theme
+740,14643,triple,No theme
+741,14656,troll,No theme
+742,14678,true,No theme
+743,14683,truth,No theme
+744,14746,tweet,No theme
+745,14750,twice,No theme
+746,14752,twin,No theme
+747,14758,twitter,people and places
+748,14774,uber,people and places
+749,14852,undergo,No theme
+750,14927,university,people and places
+751,15058,uttar,people and places
+752,15077,vaccine,No theme
+753,15243,victim,female stereotypes
+754,15260,view,No theme
+755,15304,violence,crime and violence
+756,15358,vogue,people and places
+757,15359,voice,empowerment
+758,15369,vote,No theme
+759,15370,voter,No theme
+760,15402,wake,No theme
+761,15407,walk,No theme
+762,15410,wall,No theme
+763,15424,war,crime and violence
+764,15433,warn,No theme
+765,15474,wear,No theme
+766,15484,wedding,female stereotypes
+767,15499,weight,female stereotypes
+768,15517,west,people and places
+769,15543,white,"race, ethnicity and identity"
+770,15565,wife,female stereotypes
+771,15589,win,empowerment
+772,15601,wing,No theme
+773,15641,wonder,No theme
+774,15649,work,empowerment
+775,15651,worker,empowerment
+776,15656,workplace,No theme
+777,15670,worth,empowerment
+778,15689,write,No theme
+779,15690,writer,empowerment
+780,15692,wrong,No theme
+781,15758,york,people and places
+782,15761,young,No theme
+783,15764,youth,No theme
+784,15824,abraham,people and places
+785,15903,aid,No theme
+786,15914,album,No theme
+787,15915,alcohol,crime and violence
+788,15922,alight,No theme
+789,15926,alleged,crime and violence
+790,15988,appeal,No theme
+791,15995,appointment,No theme
+792,16004,armed,crime and violence
+793,16068,axe,crime and violence
+794,16121,bathabile,people and places
+795,16127,bay,No theme
+796,16129,beach,No theme
+797,16138,bed,No theme
+798,16143,beer,No theme
+799,16204,blast,No theme
+800,16212,blind,No theme
+801,16219,bloemfontein,people and places
+802,16224,blow,crime and violence
+803,16244,bonang,people and places
+804,16248,boost,No theme
+805,16299,bridge,No theme
+806,16313,brown,"race, ethnicity and identity"
+807,16315,brutal,crime and violence
+808,16316,brutally,crime and violence
+809,16321,building,No theme
+810,16322,bull,No theme
+811,16324,bullet,crime and violence
+812,16334,bury,No theme
+813,16335,bush,No theme
+814,16336,bushiri,people and places
+815,16341,busisiwe,people and places
+816,16343,bust,crime and violence
+817,16367,camp,No theme
+818,16382,cape,people and places
+819,16384,capetown,people and places
+820,16389,capture,crime and violence
+821,16403,cash,No theme
+822,16407,caster,No theme
+823,16441,chair,empowerment
+824,16450,chance,No theme
+825,16460,charlize,people and places
+826,16463,chase,No theme
+827,16468,chef,empowerment
+828,16500,christmas,No theme
+829,16518,clean,No theme
+830,16519,clear,No theme
+831,16524,cliff,No theme
+832,16530,clinic,No theme
+833,16542,cocaine,crime and violence
+834,16551,collapse,No theme
+835,16552,colleague,No theme
+836,16587,con,No theme
+837,16592,concern,No theme
+838,16596,condemn,crime and violence
+839,16613,connection,No theme
+840,16631,contract,No theme
+841,16655,corruption,crime and violence
+842,16661,councillor,No theme
+843,16686,criminal,crime and violence
+844,16689,critical,No theme
+845,16700,crown,No theme
+846,16737,daily,No theme
+847,16742,dam,No theme
+848,16743,damage,crime and violence
+849,16773,declare,No theme
+850,16783,defence,No theme
+851,16790,delay,No theme
+852,16803,department,No theme
+853,16810,deputy,empowerment
+854,16814,describe,No theme
+855,16815,deserve,No theme
+856,16825,devastate,crime and violence
+857,16861,disabled,No theme
+858,16901,dlamini,people and places
+859,16907,dock,No theme
+860,16941,drama,female stereotypes
+861,16971,durban,people and places
+862,16981,east,No theme
+863,16982,eastern,people and places
+864,16986,economic,No theme
+865,17029,embrace,No theme
+866,17083,estate,No theme
+867,17101,evidence,No theme
+868,17131,expose,No theme
+869,17166,farewell,No theme
+870,17167,farm,No theme
+871,17176,fate,No theme
+872,17182,fearless,empowerment
+873,17195,femicide,crime and violence
+874,17202,festival,No theme
+875,17205,fiance,female stereotypes
+876,17249,flee,No theme
+877,17254,flood,No theme
+878,17286,forgive,No theme
+879,17304,fraud,crime and violence
+880,17346,garden,No theme
+881,17360,general,No theme
+882,17366,george,people and places
+883,17368,german,people and places
+884,17381,gigaba,people and places
+885,17400,god,No theme
+886,17424,grace,female stereotypes
+887,17425,grade,No theme
+888,17426,graduate,empowerment
+889,17441,granny,female stereotypes
+890,17444,grave,No theme
+891,17452,grieve,No theme
+892,17462,gruesome,crime and violence
+893,17473,gumede,people and places
+894,17476,gunman,crime and violence
+895,17487,hack,No theme
+896,17489,hail,No theme
+897,17530,hawk,people and places
+898,17535,heal,No theme
+899,17546,heartbroken,No theme
+900,17550,heavy,No theme
+901,17554,heist,crime and violence
+902,17556,hell,crime and violence
+903,17580,hijacking,crime and violence
+904,17595,hitman,crime and violence
+905,17596,hiv,No theme
+906,17620,horrific,crime and violence
+907,17633,hubby,No theme
+908,17640,hunt,crime and violence
+909,17652,idea,No theme
+910,17656,idol,empowerment
+911,17658,ignore,No theme
+912,17682,incident,crime and violence
+913,17720,inquiry,No theme
+914,17750,investigate,crime and violence
+915,17754,involve,No theme
+916,17812,joburg,people and places
+917,17816,johannesburg,people and places
+918,17865,kenya,people and places
+919,17866,kenyan,"race, ethnicity and identity"
+920,17874,khayelitsha,people and places
+921,17879,khumalo,people and places
+922,17886,kidnapping,crime and violence
+923,17891,killing,crime and violence
+924,17896,king,No theme
+925,17899,kitchen,No theme
+926,17911,kolisi,people and places
+927,17922,krugersdorp,people and places
+928,17928,kwazulu,people and places
+929,17931,kylie,people and places
+930,17932,label,No theme
+931,17946,language,No theme
+932,17976,legacy,empowerment
+933,17987,lerato,people and places
+934,18012,lille,people and places
+935,18016,limpopo,people and places
+936,18017,lindiwe,people and places
+937,18020,lion,No theme
+938,18063,lure,No theme
+939,18085,madiba,people and places
+940,18088,madjozi,people and places
+941,18096,magistrate,No theme
+942,18126,malema,people and places
+943,18129,mall,No theme
+944,18132,mama,female stereotypes
+945,18134,mamelodi,people and places
+946,18143,mandela,people and places
+947,18150,manhunt,crime and violence
+948,18151,mantsoe,people and places
+949,18160,marathon,No theme
+950,18186,master,No theme
+951,18195,matric,No theme
+952,18197,maul,people and places
+953,18205,mayor,empowerment
+954,18207,mazwai,people and places
+955,18238,meghan,people and places
+956,18245,memorial,No theme
+957,18285,mining,No theme
+958,18288,minnie,people and places
+959,18306,mkhwebane,people and places
+960,18310,mngoma,people and places
+961,18324,mokoena,people and places
+962,18325,mokonyane,people and places
+963,18374,mountain,No theme
+964,18375,mourn,No theme
+965,18388,mpumalanga,people and places
+966,18389,mrs,female stereotypes
+967,18410,murderer,crime and violence
+968,18430,myeni,people and places
+969,18434,mzansi,people and places
+970,18435,nab,No theme
+971,18445,natal,No theme
+972,18447,natural,No theme
+973,18453,ndabeni,people and places
+974,18498,niece,female stereotypes
+975,18501,nigerian,"race, ethnicity and identity"
+976,18541,npa,No theme
+977,18547,ntuli,"race, ethnicity and identity"
+978,18564,ocean,No theme
+979,18581,omotoso,people and places
+980,18587,operation,No theme
+981,18599,ordeal,No theme
+982,18637,painful,No theme
+983,18668,paris,people and places
+984,18673,parliament,people and places
+985,18687,passion,empowerment
+986,18692,pastor,No theme
+987,18698,patriarchy,No theme
+988,18699,patricia,people and places
+989,18707,pearl,No theme
+990,18714,penis,No theme
+991,18716,pension,No theme
+992,18736,petrol,No theme
+993,18752,phumzile,people and places
+994,18775,pit,No theme
+995,18786,plead,crime and violence
+996,18789,plot,No theme
+997,18801,poison,crime and violence
+998,18818,pool,No theme
+999,18822,poppie,No theme
+1000,18825,port,No theme
+1001,18829,position,No theme
+1002,18836,postpone,No theme
+1003,18841,pour,No theme
+1004,18853,pray,No theme
+1005,18862,premier,No theme
+1006,18864,prepare,No theme
+1007,18875,pretoria,people and places
+1008,18887,principal,No theme
+1009,18896,prize,empowerment
+1010,18924,protea,No theme
+1011,18927,protection,No theme
+1012,18928,protector,No theme
+1013,18930,protester,empowerment
+1014,18940,pule,No theme
+1015,18945,pupil,No theme
+1016,18966,rachel,people and places
+1017,18968,racism,crime and violence
+1018,18971,radio,No theme
+1019,18980,ramaphosa,people and places
+1020,18983,rand,No theme
+1021,18987,range,No theme
+1022,18996,rapist,crime and violence
+1023,18997,rapper,empowerment
+1024,19027,recount,No theme
+1025,19036,reeva,No theme
+1026,19040,reflect,No theme
+1027,19046,regret,No theme
+1028,19055,relative,No theme
+1029,19079,represent,No theme
+1030,19092,resident,No theme
+1031,19093,resign,No theme
+1032,19101,rest,No theme
+1033,19133,rihanna,people and places
+1034,19141,river,No theme
+1035,19146,rob,crime and violence
+1036,19147,robber,crime and violence
+1037,19148,robbery,crime and violence
+1038,19176,rugby,No theme
+1039,19223,sap,No theme
+1040,19227,sassa,No theme
+1041,19239,scam,No theme
+1042,19241,scandal,No theme
+1043,19269,sea,No theme
+1044,19304,serial,No theme
+1045,19305,seriously,No theme
+1046,19324,shack,No theme
+1047,19328,shake,No theme
+1048,19329,shallow,No theme
+1049,19343,shine,No theme
+1050,19347,sho,No theme
+1051,19357,shooting,crime and violence
+1052,19366,shot,No theme
+1053,19370,showbiz,No theme
+1054,19379,siam,people and places
+1055,19381,sibling,No theme
+1056,19387,sight,No theme
+1057,19407,sisulu,people and places
+1058,19421,skill,No theme
+1059,19437,slay,No theme
+1060,19449,smith,people and places
+1061,19452,smuggle,crime and violence
+1062,19456,snake,No theme
+1063,19457,snap,No theme
+1064,19458,snatch,crime and violence
+1065,19483,somizi,people and places
+1066,19492,soul,No theme
+1067,19506,speaker,No theme
+1068,19520,spirit,No theme
+1069,19529,spread,No theme
+1070,19536,squad,No theme
+1071,19572,stellenbosch,people and places
+1072,19576,stepfather,No theme
+1073,19595,storm,No theme
+1074,19601,strangle,crime and violence
+1075,19607,strength,empowerment
+1076,19667,supporter,No theme
+1077,19691,sweep,No theme
+1078,19692,sweet,No theme
+1079,19705,table,No theme
+1080,19706,tackle,No theme
+1081,19715,tambo,people and places
+1082,19729,taxi,No theme
+1083,19734,tea,No theme
+1084,19765,testify,crime and violence
+1085,19838,tough,No theme
+1086,19851,traditional,No theme
+1087,19854,trafficking,crime and violence
+1088,19855,tragedy,crime and violence
+1089,19857,trail,No theme
+1090,19885,trevor,people and places
+1091,19899,truck,No theme
+1092,19901,trust,female stereotypes
+1093,19911,tumi,people and places
+1094,19932,uct,No theme
+1095,19940,unathi,people and places
+1096,19943,uncle,No theme
+1097,19959,union,No theme
+1098,19965,universe,No theme
+1099,19991,uyinene,people and places
+1100,20007,van,No theme
+1101,20014,vehicle,No theme
+1102,20029,vice,No theme
+1103,20034,victory,empowerment
+1104,20062,vow,No theme
+1105,20066,wabantu,people and places
+1106,20085,wash,No theme
+1107,20089,wave,No theme
+1108,20104,weekend,No theme
+1109,20115,western,people and places
+1110,20130,widow,female stereotypes
+1111,20147,wine,No theme
+1112,20151,winner,empowerment
+1113,20157,witchcraft,female stereotypes
+1114,20158,withdraw,No theme
+1115,20159,witness,No theme
+1116,20180,wound,crime and violence
+1117,20204,zahara,people and places
+1118,20211,zephany,people and places
+1119,20214,zim,people and places
+1120,20215,zimbabwe,people and places
+1121,20217,zinhle,people and places
+1122,20218,zodwa,people and places
+1123,20229,zulu,people and places
+1124,20230,zuma,people and places
+1125,33864,accidentally,No theme
+1126,33878,accuser,No theme
+1127,33902,actually,No theme
+1128,33917,address,No theme
+1129,34013,agent,No theme
+1130,34050,alabama,people and places
+1131,34156,amanda,people and places
+1132,34160,amazing,No theme
+1133,34164,amber,No theme
+1134,34238,aniston,people and places
+1135,34269,antebellum,No theme
+1136,34283,antonio,people and places
+1137,34292,apartment,No theme
+1138,34298,apologize,No theme
+1139,34350,area,No theme
+1140,34368,arizona,people and places
+1141,34418,ashley,people and places
+1142,34493,attorney,empowerment
+1143,34531,authority,empowerment
+1144,34593,bachelor,No theme
+1145,34603,backlash,No theme
+1146,34648,ball,No theme
+1147,34665,band,No theme
+1148,34731,basketball,No theme
+1149,34848,bell,No theme
+1150,34943,bieber,No theme
+1151,34985,bird,No theme
+1152,35026,blake,people and places
+1153,35214,bowl,No theme
+1154,35339,britney,people and places
+1155,35356,bronx,people and places
+1156,35361,brooklyn,people and places
+1157,35431,bump,No theme
+1158,35580,cancel,No theme
+1159,35615,capitol,people and places
+1160,35632,card,No theme
+1161,35666,carolina,people and places
+1162,35671,carpet,No theme
+1163,35676,carrie,people and places
+1164,35784,center,No theme
+1165,35837,channel,No theme
+1166,35914,chicago,people and places
+1167,35966,chris,people and places
+1168,35974,christian,"race, ethnicity and identity"
+1169,35977,christina,people and places
+1170,36103,clip,No theme
+1171,36205,colorado,people and places
+1172,36217,column,No theme
+1173,36229,comedy,No theme
+1174,36234,comic,No theme
+1175,36308,concert,No theme
+1176,36343,confront,No theme
+1177,36446,cookie,No theme
+1178,36450,cooper,No theme
+1179,36494,cortez,No theme
+1180,36510,costume,No theme
+1181,36585,crazy,female stereotypes
+1182,36591,creator,No theme
+1183,36595,credit,No theme
+1184,36620,critic,No theme
+1185,36624,criticize,No theme
+1186,36634,cross,No theme
+1187,36751,cyrus,people and places
+1188,36791,dangerous,crime and violence
+1189,36936,defense,crime and violence
+1190,36995,democratic,No theme
+1191,37156,diego,people and places
+1192,37199,direct,No theme
+1193,37212,disappearance,crime and violence
+1194,37235,discuss,No theme
+1195,37246,dish,No theme
+1196,37255,disney,No theme
+1197,37333,documentary,No theme
+1198,37349,doll,female stereotypes
+1199,37786,engage,female stereotypes
+1200,37788,engagement,No theme
+1201,37840,episode,No theme
+1202,38091,fame,No theme
+1203,38131,fatal,crime and violence
+1204,38133,fatally,crime and violence
+1205,38255,figure,No theme
+1206,38270,finale,No theme
+1207,38478,francisco,people and places
+1208,38570,fun,No theme
+1209,38580,funny,No theme
+1210,38603,gain,No theme
+1211,38670,gay,"race, ethnicity and identity"
+1212,38714,georgia,people and places
+1213,38826,globe,No theme
+1214,38840,goat,No theme
+1215,38862,gomez,people and places
+1216,38882,gop,No theme
+1217,38897,gossip,female stereotypes
+1218,38929,grammy,empowerment
+1219,38937,grandma,female stereotypes
+1220,38967,green,No theme
+1221,38979,greta,people and places
+1222,39013,grope,crime and violence
+1223,39042,guest,No theme
+1224,39131,hall,No theme
+1225,39137,halloween,No theme
+1226,39222,harvey,people and places
+1227,39401,hilarious,No theme
+1228,39405,hill,No theme
+1229,39421,historic,No theme
+1230,39469,homeless,No theme
+1231,39495,honor,No theme
+1232,39555,housewife,female stereotypes
+1233,39560,houston,people and places
+1234,39654,ice,No theme
+1235,39665,identity,"race, ethnicity and identity"
+1236,39943,introduce,No theme
+1237,39954,investigation,crime and violence
+1238,39969,iowa,people and places
+1239,40012,island,people and places
+1240,40042,jackson,people and places
+1241,40097,jean,No theme
+1242,40129,jersey,people and places
+1243,40135,jessica,people and places
+1244,40182,johnson,people and places
+1245,40185,joke,No theme
+1246,40189,jolie,people and places
+1247,40195,jones,people and places
+1248,40263,justin,people and places
+1249,40298,kanye,people and places
+1250,40318,kate,people and places
+1251,40329,katie,people and places
+1252,40334,katy,people and places
+1253,40365,kelly,people and places
+1254,40429,kim,people and places
+1255,40485,knife,crime and violence
+1256,40518,kourtney,people and places
+1257,40598,lake,No theme
+1258,40665,laugh,No theme
+1259,40672,laura,people and places
+1260,40690,lawmaker,empowerment
+1261,40693,lawrence,people and places
+1262,40695,lawsuit,crime and violence
+1263,40916,lively,No theme
+1264,40964,lohan,people and places
+1265,40993,lopez,people and places
+1266,41026,lovato,people and places
+1267,41150,magazine,No theme
+1268,41243,manhattan,people and places
+1269,41315,marine,No theme
+1270,41370,marvel,No theme
+1271,41547,megan,people and places
+1272,41565,memba,No theme
+1273,41571,memoir,No theme
+1274,41643,mexican,"race, ethnicity and identity"
+1275,41644,mexico,people and places
+1276,41658,michelle,people and places
+1277,41659,michigan,people and places
+1278,41670,middleton,people and places
+1279,41697,miley,people and places
+1280,41721,minaj,people and places
+1281,41791,mistake,No theme
+1282,41831,mock,No theme
+1283,42112,nba,people and places
+1284,42143,neighbor,No theme
+1285,42196,nfl,people and places
+1286,42346,nyc,people and places
+1287,42352,nypd,people and places
+1288,42421,ohio,people and places
+1289,42863,pennsylvania,people and places
+1290,42904,perry,people and places
+1291,43002,piece,No theme
+1292,43085,plastic,No theme
+1293,43160,politico,No theme
+1294,43191,pop,No theme
+1295,43193,pope,people and places
+1296,43233,possible,No theme
+1297,43252,pound,No theme
+1298,43308,premiere,No theme
+1299,43383,pro,No theme
+1300,43396,producer,empowerment
+1301,43445,prosecutor,crime and violence
+1302,43832,reese,No theme
+1303,43951,rep,No theme
+1304,43963,reportedly,No theme
+1305,43964,reporter,No theme
+1306,43974,republican,No theme
+1307,44015,restaurant,No theme
+1308,44104,richard,people and places
+1309,44149,rip,crime and violence
+1310,44187,robert,people and places
+1311,44239,romance,female stereotypes
+1312,44338,rumor,No theme
+1313,44367,ryan,No theme
+1314,44409,sale,No theme
+1315,44435,san,No theme
+1316,44574,scott,No theme
+1317,44831,shirt,No theme
+1318,44840,shoe,No theme
+1319,44946,simpson,people and places
+1320,45044,slaying,No theme
+1321,45156,soccer,No theme
+1322,45168,soda,No theme
+1323,45239,source,No theme
+1324,45276,spear,No theme
+1325,45320,split,No theme
+1326,45346,spring,No theme
+1327,45479,stewart,No theme
+1328,45550,stream,No theme
+1329,45627,subway,No theme
+1330,45668,summer,No theme
+1331,45674,sun,No theme
+1332,45690,superhero,empowerment
+1333,45901,tape,No theme
+1334,45969,teigen,people and places
+1335,45990,tennessee,people and places
+1336,46034,text,No theme
+1337,46105,throne,empowerment
+1338,46714,usa,people and places
+1339,46728,utah,people and places
+1340,46754,valley,No theme
+1341,46771,vanessa,people and places
+1342,46774,vanish,No theme
+1343,46794,vegas,people and places
+1344,46897,virginia,people and places
+1345,47027,washington,people and places
+1346,47169,wild,No theme
+1347,47180,williams,people and places
+1348,47196,window,No theme
+1349,47227,witherspoon,people and places
+1350,47253,wood,No theme
+1351,20309,accord,No theme
+1352,20432,aged,No theme
+1353,20446,agony,No theme
+1354,20666,animal,No theme
+1355,20677,anne,No theme
+1356,20739,appearance,No theme
+1357,20815,arrive,No theme
+1358,20920,attacker,crime and violence
+1359,21283,bedroom,No theme
+1360,21423,bikini,female stereotypes
+1361,21465,bit,No theme
+1362,21471,bizarre,No theme
+1363,21537,block,No theme
+1364,21652,boris,people and places
+1365,21665,bottle,No theme
+1366,21804,brit,"race, ethnicity and identity"
+1367,21805,britain,people and places
+1368,22107,cardiff,people and places
+1369,22327,charlotte,people and places
+1370,22367,chelsea,people and places
+1371,22669,collection,No theme
+1372,22755,complete,No theme
+1373,22918,cool,No theme
+1374,22989,council,No theme
+1375,23099,criticise,No theme
+1376,23537,desperate,No theme
+1377,23593,diagnose,No theme
+1378,23654,dinner,No theme
+1379,23771,ditch,No theme
+1380,23956,duchess,female stereotypes
+1381,24106,egg,No theme
+1382,24199,emma,people and places
+1383,24257,enjoy,No theme
+1384,24403,evil,No theme
+1385,24518,factor,No theme
+1386,24616,favourite,No theme
+1387,24797,flash,No theme
+1388,24885,footage,No theme
+1389,25065,furious,No theme
+1390,25181,generation,No theme
+1391,25229,ghost,No theme
+1392,25234,giant,No theme
+1393,25291,glasgow,people and places
+1394,25401,grab,No theme
+1395,25711,harry,people and places
+1396,25794,heartbreaking,No theme
+1397,26049,horse,No theme
+1398,26210,ill,No theme
+1399,26215,illness,No theme
+1400,26305,incredible,empowerment
+1401,26392,inquest,No theme
+1402,26510,ireland,people and places
+1403,26937,kind,female stereotypes
+1404,26986,knock,No theme
+1405,27048,labour,No theme
+1406,27237,lesbian,"race, ethnicity and identity"
+1407,27337,lip,female stereotypes
+1408,27358,liverpool,people and places
+1409,27428,loose,female stereotypes
+1410,27672,manchester,people and places
+1411,27788,mary,people and places
+1412,27891,mcdonald,people and places
+1413,28107,mile,No theme
+1414,28164,miracle,No theme
+1415,28289,monster,crime and violence
+1416,28316,morgan,people and places
+1417,28323,morning,No theme
+1418,28550,neck,No theme
+1419,28607,newcastle,people and places
+1420,28629,nhs,people and places
+1421,28713,nose,No theme
+1422,28931,orgasm,No theme
+1423,28971,outfit,female stereotypes
+1424,29059,paedophile,crime and violence
+1425,29076,pal,No theme
+1426,29356,pet,No theme
+1427,29446,pill,No theme
+1428,29540,plymouth,people and places
+1429,29642,portrait,No theme
+1430,29765,price,No theme
+1431,29901,pub,No theme
+1432,30043,rage,crime and violence
+1433,30175,recent,No theme
+1434,30443,revenge,crime and violence
+1435,30698,ruin,No theme
+1436,30718,rush,No theme
+1437,30918,schoolgirl,female stereotypes
+1438,30945,scot,No theme
+1439,30947,scotland,people and places
+1440,30949,scottish,people and places
+1441,30962,scream,crime and violence
+1442,31167,shed,No theme
+1443,31277,sick,No theme
+1444,31415,slave,crime and violence
+1445,31473,smash,crime and violence
+1446,31673,spice,No theme
+1447,31675,spider,No theme
+1448,31700,spoiler,No theme
+1449,31729,spy,No theme
+1450,31746,stacey,people and places
+1451,31887,stomach,No theme
+1452,31915,strange,No theme
+1453,31917,stranger,No theme
+1454,31973,stun,No theme
+1455,31975,stunning,No theme
+1456,32029,suggest,No theme
+1457,32203,syndrome,No theme
+1458,32392,terrify,crime and violence
+1459,32393,terrifying,crime and violence
+1460,32396,terror,crime and violence
+1461,32437,theatre,people and places
+1462,32488,thug,crime and violence
+1463,32517,tiktok,people and places
+1464,32535,tinder,people and places
+1465,32595,tooth,No theme
+1466,32638,toy,No theme
+1467,32666,tragic,crime and violence
+1468,32688,transform,No theme
+1469,32751,trick,No theme
+1470,32825,tumour,No theme
+1471,33052,unveil,No theme
+1472,33112,vagina,female stereotypes
+1473,33218,victoria,people and places
+1474,33231,viewer,No theme
+1475,33254,violent,crime and violence
+1476,33338,wale,No theme
+1477,33414,watson,people and places
+1478,33431,weather,No theme
+1479,33467,welsh,"race, ethnicity and identity"
+1480,33577,windsor,people and places
