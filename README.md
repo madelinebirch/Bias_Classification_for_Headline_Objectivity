@@ -112,8 +112,7 @@ Our data is highly imbalanced toward the Low Bias category. To address this...
 
 [Notebook](https://github.com/madelinebirch/Bias_Classification_for_Headline_Objectivity/blob/main/notebook.ipynb)
 
-[Reproducibility](http://localhost:8888/edit/reproducibility.md)
+[Presentation](https://github.com/madelinebirch/Bias_Classification_for_Headline_Objectivity/blob/main/presentation.pdf)
 
-[Presentation]
-
+[Reproducibility Instructions](http://localhost:8888/edit/reproducibility.md)
 
