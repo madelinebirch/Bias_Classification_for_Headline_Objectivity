@@ -1,10 +1,3 @@
-# Steps to run code:
+# Google Colab
+[Click here](https://colab.research.google.com/drive/13C8SLAYSmW95Emvchi4qwzsxTwE-KB84#scrollTo=6790a8db) to run this project in the cloud. You should achhieve the same results as are shown in the static notebook copy you see in [my GitHub repository](https://github.com/madelinebirch/Bias_Classification_for_Headline_Objectivity).
 
-### Open Google Colab in any web browser.
-### When prompted "open notebook."
-### From the selections, click on "GitHub."
-### Copy and paste the link for this repository https://github.com/madelinebirch/Bias_Classification_for_Headline_Objectivity
-### Click on notebook.ipynb.
-### From the Runtime dropdown menu, select Run all.
-
-### This should run all contents of the notebook.
