@@ -36,7 +36,7 @@ We cleaned and filtered the data, engineering features along the way for better 
 Then, we preprocessed 'headlines' text data by tokenizing, lemmatizing, and vectorizing the text for modeling.
 
 ## Evaluation metric: weighted average F1 score
-The Weighted Average F1 score is an appropriate evaluation metric for predicting headline bias categories across all models due to its ability to balance precision and recall while accounting for class imbalance.
+The Weighted Average F1 score is an appropriate evaluation metric for predicting headline bias categories across all models due to its ability to balance precision and recall while accounting for our class imbalance.
 
 # Modeling
 
@@ -59,17 +59,7 @@ all our neural networks models, aside from L2 Regularization, all with weighted 
 
 # Findings
 
-**Best performing WAF1 scores:**
-- NN with Dropout: 51%
-- NN with Batch Normalization: 51%
-- MLP with Batch Normalization: 51%
-
-**Moderate WAF1 score:**
-- Simple NN: 47%
-
-**Poor WAF1 scores:**
-- NN with L2 Reg: 3%
-- LSTM with Batch Normalization and Dropout: 3%
+It seems that our LSTM model performed best, with a WAF1 score of 54%, suggesting there is still room for improvement. All our neural networks, minus the NN with L2 regularization, performed moderately as well. 
 
 
 # Recommendations
@@ -99,3 +89,23 @@ PBS needs to back up its reputation as an objective American news source and def
 **Additional Recommendations:**
 - Publish each article's headline bias score in plain view for readers to see
 - Advertise and demonstrate the use and efficacy of FairFrame in public funding defense efforts
+
+# Limitations and Further Inquiry
+
+The scope and time constraints of the project limit our ability to explore more complex Recurrent Neural Networks. To address this...
+- **Explore more Recurrent Neural Networks like Bidirectional LSTM and Gated Recurrent Unit (GRU).**
+
+The scope and time constraints of the project limit our ability to explore the dataframe's fullest modeling potential. To address this...
+- **Invest in including some or all features engineered throughout our Feature Engineering (and more EDA) section.** We tried running comprehensive models using one or more of the engineered features, both one-hot-encoded categorical features and numerical features. It caused our models to run very slowly and in the interest of time and the scope of our project, we decided to leave it up to PBS to prepare and include them in future model iterations.
+- **Merge other DataFrames from the broader data.world dataset (linked in dataset overview) to headlines.csv** and see what other comprehensive set of features can be gleaned.
+
+Our data is highly imbalanced toward the Low Bias category. To address this...
+- **Utilize the SMOTE library or a variant of it to address class imbalance head on.** These librares generate synthetic examples of the minority class to create a more balanced distribution and could lead to better optimized models.
+- **Calculate class weights to customize to each individual model.**
+
+- **Invest in collecting or utilizing existing PBS-specific headline data and other data from more reputable sources** to increase the relevance and efficacy of FairFrame. 
+
+# Repository Structure
+
+
+
