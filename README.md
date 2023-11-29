@@ -55,11 +55,10 @@ Here are the models we ran and evaluated:
 - Multilayer Perceptron (MLP) with Batch Normalization
 - Long Short-Term Memory (LSTM)
 
-all our neural networks models, aside from L2 Regularization, all with weighted average F1 scores of 51%, have at least improved upon the baseline neural network.
 
 # Findings
 
-It seems that our LSTM model performed best, with a WAF1 score of 54%, suggesting there is still room for improvement. All our neural networks, minus the NN with L2 regularization, performed moderately as well. 
+It seems that our LSTM model performed best, with a WAF1 score of 54%, suggesting there is still room for improvement. All our neural networks, minus the NN with L2, performed moderately as well. 
 
 
 # Recommendations
