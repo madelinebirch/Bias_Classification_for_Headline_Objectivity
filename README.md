@@ -106,5 +106,10 @@ Our data is highly imbalanced toward the Low Bias category. To address this...
 
 # Repository Structure
 
+[Data](https://github.com/madelinebirch/Bias_Classification_for_Headline_Objectivity/tree/main/Data)
+[Images](https://github.com/madelinebirch/Bias_Classification_for_Headline_Objectivity/tree/main/Images)
+[Notebook](https://github.com/madelinebirch/Bias_Classification_for_Headline_Objectivity/blob/main/notebook.ipynb)
+[Reproducibility](http://localhost:8888/edit/reproducibility.md)
+[Presentation]
 
 
