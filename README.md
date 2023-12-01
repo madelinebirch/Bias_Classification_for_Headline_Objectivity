@@ -58,7 +58,9 @@ Here are the models we ran and evaluated:
 
 # Findings
 
-It seems that our LSTM model performed best, with a WAF1 score of 54%, suggesting there is still room for improvement. All our neural networks, minus the NN with L2, performed moderately as well. 
+Our NN model with Batch Normalization model performed best, with a fairly mixed-to-balanced classification report. Let's check a confusion matrix for this model to confirm our findings:
+
+<img src="Images/nn_with_batch_cm.png" alt="Confusion Matrix for NN with Batch Normalization" width="400"/>
 
 
 # Recommendations
