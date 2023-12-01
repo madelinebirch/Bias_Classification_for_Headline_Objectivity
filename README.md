@@ -58,13 +58,16 @@ Here are the models we ran and evaluated:
 
 # Findings
 
-Our NN model with Batch Normalization model performed best, with a fairly mixed-to-balanced classification report. Let's check a confusion matrix for this model to confirm our findings:
+Our NN model with Batch Normalization model performed best, with a fairly mixed-to-balanced classification report. Let's check its report and plotted confusion matrix to visualize our model's performance:
 
 <img src="Images/nn_with_batch_cm.png" alt="Confusion Matrix for NN with Batch Normalization" width="400"/>
 
-We see above a mixed performance across bias classes. Recalling the classification report for our NN with Batch Normalization model, we see a reasonably high precision for "Low Bias" at 0.75, indicating that when it predicts instances as "Low Bias," it is accurate 75% of the time. However, precision is notably lower for "No Bias" at 0.25, indicating a higher rate of false positives for this class. The recall is relatively consistent across classes, with the model identifying around 46-62% of instances for "High Bias," "Low Bias," and "No Bias."
+<img src="Images/nn_with_batch_classreport.png" alt="Classification Report for NN with Batch Normalization" width="400"/>
 
-Our model's weighted average F1-Score of 59% shows a moderate-to-good overall balance between precision and recall. This is the model we recommend for further optimization.
+
+Above, we see a reasonably high precision for "Low Bias" at 0.75, indicating that when it predicts instances as "Low Bias," it is accurate 75% of the time. However, precision is notably lower for "No Bias" at 0.25, indicating a higher rate of false positives for this class. The recall is relatively consistent across classes, with the model identifying around 46-62% of instances for "High Bias," "Low Bias," and "No Bias." From both the classification report and confusion matrix we see a **mixed to relatively balanced performance across bias classes compared to other models.**
+
+Our model's **weighted average F1-Score of 59%** shows a moderate-to-good overall balance between precision and recall. This is the model we recommend for further optimization.
 
 ## Technical Recommendations
 
