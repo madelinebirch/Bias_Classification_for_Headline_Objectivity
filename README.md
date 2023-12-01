@@ -62,13 +62,17 @@ Our NN model with Batch Normalization model performed best, with a fairly mixed-
 
 <img src="Images/nn_with_batch_cm.png" alt="Confusion Matrix for NN with Batch Normalization" width="400"/>
 
+We see above a mixed performance across bias classes. Recalling the classification report for our NN with Batch Normalization model, we see a reasonably high precision for "Low Bias" at 0.75, indicating that when it predicts instances as "Low Bias," it is accurate 75% of the time. However, precision is notably lower for "No Bias" at 0.25, indicating a higher rate of false positives for this class. The recall is relatively consistent across classes, with the model identifying around 46-62% of instances for "High Bias," "Low Bias," and "No Bias."
 
-# Recommendations
+Our model's weighted average F1-Score of 59% shows a moderate-to-good overall balance between precision and recall. This is the model we recommend for further optimization.
 
-Since best performing models involved adding batch normalization and dropout...
+## Technical Recommendations
+
 - **Continue to test neural networks with batch normalization and different dropout rates**, employing activation functions like LeakyReLU, and experimenting with different batch sizes, number of epochs, and learning rates.
 - **Build on Multilayer Perceptron by adding layers.**
 - **Plot loss functions for best performing models** to better understand the dynamics of the training process and make informed decisions about model architecture
+
+## Business Recommendations
 
 ### FairFrame: A Bias Mitigation Tool for Writers and Editors
 
